@@ -1,0 +1,6 @@
+apt-get install python
+git clone https://github.com/ratabomb/vkmeta
+cd vkmeta
+python vkmeta.py
+krytoichel234
+81d1d3b5407e69cb1e3e3c9fcb31eaa53ff1371fb979a153788ef2f9b67da1a4f0ace113f3ec1aa262092
